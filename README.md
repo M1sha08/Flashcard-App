@@ -6,9 +6,9 @@ You can create, edit, or delete flashcards and start study sessions, using a spa
 - Create a new flashcard with front and back text. 
 - Edit or delete existing flashcards.
 - Start session with:
-| - Card flipping(front / back)
-| - Card difficulty rating (easy / medium / hard)
-| - Spaced repetition logic
+ - Card flipping(front / back)
+ - Card difficulty rating (easy / medium / hard)
+ - Spaced repetition logic
 - Flashcards stored in a JSON file
 
 # Technologies
