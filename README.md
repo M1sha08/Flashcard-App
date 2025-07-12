@@ -19,10 +19,10 @@ You can create, edit, or delete flashcards and start study sessions, using a spa
 
 ## How to Run
 1. Clone the repository
-| git clone https://github.com/your-username/your-repo-name.git
-| cd your-repo-name
+- git clone https://github.com/your-username/your-repo-name.git
+- cd your-repo-name
 2. Run the app
-| python main.py
+- python main.py
 
 ## Todo (Coming soon)
 - GUI using Tkinter
